@@ -1,0 +1,93 @@
+2:34 2019/11/9
+如果我想要做好一件事情，自己想完成的作品，首先要学好相应的知识，然后在关键的时刻，达到社会的要求，不要陷入到为了生存而不停做不自由的重复工作，生活就是不重复，这样思想会给出相似光景下的不同答案，所要做的就是不断去击打那个点，会发生新的变化，这不是重复，而是改变，一直是改变却有不会重复的东西就是这个了。
+
+计划通！！
+写一个文本编辑器用来写自己的感想和生活。一本人生之书，用一生来维护的一个超大维度变量。这是我想在想到的实现自己人生意义の 方法之一。（这里想打一个的然后巧合下打出了日文的の）
+
+9号	10号	11号	12号中午组会下午经济学原理	13号操作系统考试
+复习	复习	复习
+EC	EC	EC
+OS	OS	OS
+------such a long time to study---------life for once----no meaning------nice life
+13:07 2019/11/13
+操作系统考试结束，暂时的计划是准备数理逻辑考试和操作系统实习的lab4的完成。
+然后复习整个上学期内容。
+准备六级和实验室的工作。
+
+17:42 2019/11/14
+非常可惜，因为考完了操作系统，只有一门数理逻辑了就开始玩起来了，我需要摆脱这个节奏，说到底我还没知道未来因该去做什么，不然就会象美国迷茫的一代一样，得有自己的想法。因该还是经历太少了吧。
+
+想玩的话就去背单词跑步看油管的时评。做任何是都要不紧不慢的，不是无所谓而是，有所为的意思。
+少说点话多做点事情。
+
+A GENERIC COMMUNICATION SCHEDULER FOR DISTRIBUTED
+yanghua peng 博士
+吴川副教授， 
+联邦机器学习
+23:35 2020/1/16
+开始计划。。。
+1:01 2020/1/23
+7天一评，毫无进展，这周有点忙。
+做个人博客
+安装好c++和java的环境，学习java
+学习英语，看点中文书
+15:01 2020/1/25
+过年咯
+15:02 2020/1/25
+-个人博客，学习java
+-看完那本编译链接的修养
+-程序员的修养？
+1、安装git
+在GitHub上喜欢的项目上点击clone and download并且复制连接到命令行中
+cd到想要下载到的文件夹后使用命令：git clone https:xxxx.com(网址)
+来下载内容。
+做出更改后使用：git status来查询状态，使用：git add .来添加所有文件
+或者是用git add <文件名>来添加单独的文件，之后用git status可以看到新增加的文件
+然后使用git commit -m <简介>来提交到本地。如果第一次使用的话，会提示输入名字和邮箱
+使用git push命令把自己做的更改提交到GitHub上去。可能需要登陆。
+然后在自己fork的库中发起申请提交到源库中去，之后等待接纳就行了。
+
+然后学习廖雪峰的git教学，笔记在onenote的快速笔记。
+安装git(windows版本  )
+git安装完毕
+疫情严重不出门，不如预习、复习一下课程内容吧！详情点击>>
+
+微积分A(1) https://dwz.cn/2Z0J72O9
+线性代数(1) https://dwz.cn/2yhMufq8
+离散数学(1) https://dwz.cn/4BLkcmss
+程序设计基础 https://dwz.cn/sWL6MS16
+信息科学技术概论 https://dwz.cn/ihRCvJ0j
+计算机科学导论 https://dwz.cn/1wcNyHH3
+微积分A(2) https://dwz.cn/IMAz378R
+线性代数(2) https://dwz.cn/XU4JXAUA
+离散数学(2) https://dwz.cn/hjrfQ4MQ
+面向对象程序设计基础 https://dwz.cn/fHfFkwHX
+数据结构 https://dwz.cn/F26kuGzy
+复变函数引论 https://dwz.cn/hSCNDLVz
+电子学基础 https://dwz.cn/HKPv3Cyy
+数字逻辑电路 https://dwz.cn/cWQ8kdMi
+概率论数理统计 https://dwz.cn/SWqQDDR7
+随机数学方法 https://dwz.cn/bhFjPP1S
+人工智能导论 https://dwz.cn/7LfCEu4L
+形式语言与自动机 https://dwz.cn/vMkxGCZs
+高性能计算导论 https://dwz.cn/9hEbjtd4
+计算机图形学基础 https://dwz.cn/zXN0DJ8T
+汇编语言程序设计 https://dwz.cn/7dspuNhv
+Java程序设计与训练 https://dwz.cn/cbXxp86U
+计算机组成原理 https://dwz.cn/09zdQYXq
+计算机网络原理 https://dwz.cn/iAp5t9e2
+编译原理 https://dwz.cn/oDsKwBmo
+信号处理原理 https://dwz.cn/Lzv2z73d
+软件工程 https://dwz.cn/7aMYmR6Z
+人工神经网络 https://dwz.cn/mcfXHVC4
+VLSI设计导论 https://dwz.cn/hfDUH6tk
+人机交互理论与技术 https://dwz.cn/VSan3I7e
+数据库系统概论 https
+0:07 2020/1/29
+哇，时间太好混了，可能是因为这几天身体不太舒服。
+加油加油。
+总结一下现在的目标：
+学习git java 复习python 学习机器学习，学习英语
+然后把上面的链接看看，同时复习大学之前学习的专业课（高代，淑芬这些）
+可能是太冷了，还是热点好。（还真就儿女情长啊
+16:22 2020/1/31
