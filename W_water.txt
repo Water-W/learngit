@@ -113,3 +113,26 @@ git学习完毕，开始学习python那些
 明天还要看一看新一版的Windows terminal怎么使用、配置自己喜欢的风格之类了。
 然后背单词和学习数学之类的
 最近发现一个pilipili.cc有点社保。嘤嘤嘤。让杨钰莹康康。
+14:49 2020/2/10
+看完了Windows terminal的github说明如果还有不懂，可以到网站查看：
+https://github.com/microsoft/terminal/blob/master/doc/user-docs/UsingJsonSettings.md
+https://github.com/microsoft/terminal/blob/master/doc/user-docs/index.md
+看后发现terminal还在开发中，很多功能正在完善，但是还达不到宣传视频种描述的那样。
+现在最多添加一个自定义的北京图片。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

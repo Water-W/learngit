@@ -1,0 +1,15 @@
+git reset来回退版本。
+git reset --hard HEAD^
+回退之后我们在没关闭窗口的情况下还能变回来，否则
+只能通过git relog查看操作历史来查看版本号进行回退了。
+git diff HEAD -- readme.txt
+//可以查看工作区和版本库里面最新版本的区别。
+
+gti checkout -- readme.txt
+//撤销工作区的修改
+
+如果我们不小心写了一些胡话并且git add到了暂存区
+git reset HEAD <file>
+可以撤销放到缓冲区的修改。
+从版本库中删除该文件，
+那就用命令git rm删掉，并且git commit：
