@@ -115,11 +115,16 @@ git学习完毕，开始学习python那些
 最近发现一个pilipili.cc有点社保。嘤嘤嘤。让杨钰莹康康。
 14:49 2020/2/10
 看完了Windows terminal的github说明如果还有不懂，可以到网站查看：
+https://github.com/microsoft/terminal/blob/master/doc/cascadia/SettingsSchema.md
 https://github.com/microsoft/terminal/blob/master/doc/user-docs/UsingJsonSettings.md
 https://github.com/microsoft/terminal/blob/master/doc/user-docs/index.md
 看后发现terminal还在开发中，很多功能正在完善，但是还达不到宣传视频种描述的那样。
 现在最多添加一个自定义的北京图片。
 
+23:52 2020/2/18
+开学前几天在梦游
+总觉得提不起劲来，挺起劲了又该睡觉了。
+这两天再忙开学的事情。
 
 
 
